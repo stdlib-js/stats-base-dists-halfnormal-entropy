@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-25)
+## Unreleased (2026-08-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ada926b`](https://github.com/stdlib-js/stdlib/commit/ada926b70c63627901f78086f56ed63511f3fdcc) - **test:** migrate `stats/base/dists/halfnormal/entropy` to ULP-based assertions [(#14612)](https://github.com/stdlib-js/stdlib/pull/14612) _(by Athan Reines)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 
 </details>
